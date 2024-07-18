@@ -62,3 +62,8 @@ a {
 .yes {
     background-color: var(--green);
 }
+
+h2 > a {
+    color: var(--black);
+    margin-left: 0.6rem;
+}
